@@ -1,3 +1,9 @@
+ @font-face{
+	font-family:Goudy Stout;
+	src :url('GOUDYSTO');
+ 
+ }
+
 #home{
 	background-image: url("images/image2.jpg ");
 }
