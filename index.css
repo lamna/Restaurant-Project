@@ -112,12 +112,13 @@ h4{
 }
 
 #sidebar{	
-	margin-left:30px;
+	/*margin-left:30px; */
 	margin-top:60px;	
 	background: linear-gradient(to right, rgba(255,128,0,0), rgba(255,128,0,1));
 	color:white;
 	font-family:Lucida Bright;
 	width:300px;
+	
 }
 
 #sidebar p{
@@ -171,11 +172,11 @@ h4{
 }
 
 #submit{
-	width:550px;
+	width:100%;
 }
 
 #form2_submit{
-	width:550px;
+	width:100%;
 }
 
 #reserve{
