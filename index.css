@@ -120,28 +120,25 @@ h4{
 }
 
 #sidebar{	
-	/*margin-left:30px; */
-	margin-top:60px;	
-	background: linear-gradient(to right, rgba(255,128,0,0), rgba(255,128,0,1));
+		
+	/*background: linear-gradient(to right, rgba(255,128,0,0), rgba(255,128,0,1));*/
 	color:white;
 	font-family:Lucida Bright;
-	width:300px;
 	
+	text-align:center;	
 }
+#sidebar h5{ letter-spacing:10px;}
 
-#sidebar p{
-	margin-left:80px;	
-}
+
 
 #foot2{
-	margin-left:0px;
-	margin-top:30px;
+	text-align:center;
 	color:white;
+	padding-top:30px;
 }
 
 #foot3{
-	margin-left:80px;
-	margin-top:0px;
+	text-align:center;
 }
 
 .modal-body label{
